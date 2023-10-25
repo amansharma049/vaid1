@@ -27,7 +27,7 @@
     .Navactive{
             position: absolute;
             left: 0;
-            width: 414px;
+            width: -webkit-fill-available;
             display: flex!important;
             padding: 1em;
             flex-direction: column;
