@@ -261,7 +261,7 @@ nav{
 
   .note{
     margin:4em 0;
-    height: 16em;
+    height: auto;
     line-height: 16em;
     background-color: rgba(70,97,92,0.4);
   }.note-center{
