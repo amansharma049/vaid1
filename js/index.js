@@ -38,13 +38,13 @@ window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
   if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
-    document.getElementById("navbar").style.backgroundColor = "white";
-    document.getElementById("links").style.backgroundColor = "white";
-    document.getElementById("navbar").style.boxShadow = "1px 10px 15px #ccc";
+    // document.getElementById("navbar").style.backgroundColor = "white";
+    // document.getElementById("links").style.backgroundColor = "white";
+    // document.getElementById("navbar").style.boxShadow = "1px 10px 15px #ccc";
   }else{
-    document.getElementById("navbar").style.backgroundColor = "transparent";
-    document.getElementById("links").style.backgroundColor = "transparent";
-    document.getElementById("navbar").style.boxShadow = "none";
+    // document.getElementById("navbar").style.backgroundColor = "transparent";
+    // document.getElementById("links").style.backgroundColor = "transparent";
+    // document.getElementById("navbar").style.boxShadow = "none";
 
   }
 }
