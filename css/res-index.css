@@ -3,6 +3,10 @@
         height: 90%;
     }
 }
+nav{
+    background-color: white;
+box-shadow: rgb(204, 204, 204) 1px 10px 15px;
+}
 @media (max-width:835px){
     .welcome-msg .msg-img::before{
         height: 83%;
